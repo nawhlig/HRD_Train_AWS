@@ -1,6 +1,4 @@
-### HRD_Train_AWS
-
-## 고용노동부 HRD K-DIGITAL 훈련과정 Ansible 자동화로 구현한 아마존 AWS 클라우드 환경 DevOps 
+### 고용노동부 HRD K-DIGITAL 훈련과정 Ansible 자동화로 구현한 아마존 AWS 클라우드 환경 DevOps 
 
 ### `프로젝트 수행 결과 입니다.`
 훈련회차 5회차
